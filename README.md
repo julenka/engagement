@@ -2,4 +2,4 @@
 
 Some of the puzzles were tricky, so I had to write code to solve them.
 
-You can see his puzzles [here](https://github.com/Dklionsk/proposal)
+You can see his puzzles [here](https://github.com/Dklionsk/proposal).
